@@ -1,6 +1,6 @@
 import sys
 
-class VehicleTrain:
+class Vehicle_train:
     def __init__(self, data_input):
         self.data_input = data_input
         self.station_after_hyb = {"HYB": 0, "NGP": 400, "ITJ": 700, "BPL": 800,
@@ -48,7 +48,7 @@ class Vehicle:
         self.dept_train = []
         self.dept_train1 = []
         self.dept_train2 = []
-        self.vehicle_train = VehicleTrain(data_input)
+        self.vehicle_train = Vehicle_train(data_input)
 
     def main(self):
         input_lines = self.data_input.split("\n")
