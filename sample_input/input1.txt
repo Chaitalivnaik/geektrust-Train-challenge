@@ -1,0 +1,4 @@
+/*Please add your sample inputs 
+here specific to the problem statement*/
+TRAIN_A ENGINE NDL NDL KRN GHY SLM NJP NGP BLR
+TRAIN_B ENGINE NJP GHY AGA PNE MAO BPL PTA
